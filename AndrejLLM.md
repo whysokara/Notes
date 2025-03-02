@@ -14,11 +14,10 @@ then they filter those internet data in number of steps like
 and many more conditions
 
 2. Tokenization
-== Conversion of english text to bits and bytes
+``` Conversion of english text to bits and bytes ```
 text => bits => bytes
 
-
-"" task is to reduce the space and text space of raw text "" also known as tokenization
-Basically you give a symbol to a text and then in next step you look for pairs of symbol that comes together and then give them a new symbol and you keep on doing this on and on
+task is to reduce the space and text space of raw text  also known as tokenization
+Basically you give a symbol to a text and then in next step you look for pairs of symbol that comes together and then give them a new symbol and you keep on doing this on and on 
 
 3. Neural Network training

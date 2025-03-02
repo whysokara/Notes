@@ -1,7 +1,7 @@
-Lecture : https://www.youtube.com/watch?v=7xTGNNLPyMI
-Title : Deep Dive into LLMs like ChatGPT
+Lecture : (https://www.youtube.com/watch?v=7xTGNNLPyMI)
+## Title : Deep Dive into LLMs like ChatGPT
 
-Important Links used in the lecture:
+### Important Links used in the lecture:
 https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1
 tokenizer : https://tiktokenizer.vercel.app
 
